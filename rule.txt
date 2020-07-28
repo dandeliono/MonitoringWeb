@@ -1,0 +1,26 @@
+#秒针
+stm-collect.cn.miaozhen.com
+cem.cn.miaozhen.com
+
+! 国双
+recv-wd.gridsumdissector.com
+recv-bak-wd.gridsumdissector.com
+cm-udmp.gridsumdissector.com
+webdissector.com
+
+! GA
+google-analytics.com
+googletagmanager.com
+
+! DoubleClick
+cm.g.doubleclick.net
+stats.g.doubleclick.net
+3569326.fls.doubleclick.net
+
+! 百度
+hm.baidu.com
+
+! CNZZ
+c.cnzz.com
+s96.cnzz.com
+z2.cnzz.com
