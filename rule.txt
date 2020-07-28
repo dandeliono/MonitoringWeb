@@ -1,26 +1,52 @@
-#秒针
+
+!秒针
 stm-collect.cn.miaozhen.com
 cem.cn.miaozhen.com
+||miaozhen.com$third-party
 
 ! 国双
 recv-wd.gridsumdissector.com
 recv-bak-wd.gridsumdissector.com
 cm-udmp.gridsumdissector.com
 webdissector.com
+||recv-wd.gridsumdissector.com$third-party
+||recv-bak-wd.gridsumdissector.com$third-party
+||cm-udmp.gridsumdissector.com$third-party
+||webdissector.com$third-party
 
 ! GA
 google-analytics.com
 googletagmanager.com
+adservice.google.com
+||googleadservices.com
+||googlesyndication.com
+||google-analytics.com
+||googletagmanager.com/gtm.js?$third-party
+||googletagmanager.com/gtag/$third-party
+||googletagmanager.com
+||adservice.google.com
 
 ! DoubleClick
 cm.g.doubleclick.net
 stats.g.doubleclick.net
 3569326.fls.doubleclick.net
+||doubleclick.net^$image,third-party
+||stats.g.doubleclick.net^
+||fls.doubleclick.net/activityi
+||doubleclick.net^*/trackimp/$third-party
+||doubleclick.net/activity$third-party
+||doubleclick.net/imp%$third-party
+||doubleclick.net/imp;$third-party
+||doubleclick.net/json?$third-party
+||doubleclick.net/pixel?$third-party
+||cm.g.doubleclick.net^
 
 ! 百度
 hm.baidu.com
+||hm.baidu.com^$third-party
 
 ! CNZZ
 c.cnzz.com
 s96.cnzz.com
 z2.cnzz.com
+||cnzz.com^$third-party
